@@ -5,7 +5,7 @@
 			"Sid": "VisualEditor0",
 			"Effect": "Allow",
 			"Action": "iam:PassRole",
-			"Resource": "arn:aws:iam::191236731045:role/*"
+			"Resource": "arn:aws:iam::XXXXXXXXXXXX:role/*"
 		},
 		{
 			"Sid": "VisualEditor1",
